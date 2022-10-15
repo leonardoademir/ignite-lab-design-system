@@ -11,3 +11,5 @@ This was an application to study Storybook features with Figma contribution. To 
 * npm run vite
 
 * npm run storybook
+
+### :memo: See on Github Pages: https://leonardoademir.github.io/ignite-lab-design-system/
